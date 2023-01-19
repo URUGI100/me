@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/hospitalReigen.png"  ]
+[preload  storage="./data/bgimage/end6.png"  ]
+[preload  storage="./data/bgimage/hospital1.png"  ]
+[preload  storage="./data/fgimage/default/thumb_end6.png"  ]
+[return]

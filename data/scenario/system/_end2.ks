@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/sexday.png"  ]
+[preload  storage="./data/bgimage/end2.png"  ]
+[preload  storage="./data/bgimage/home-in.png"  ]
+[preload  storage="./data/fgimage/default/thumb_end2.png"  ]
+[return]
